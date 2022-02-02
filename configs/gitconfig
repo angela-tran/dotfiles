@@ -1,0 +1,6 @@
+[user]
+   name = Angela Tran
+   email = angela@compiler.la
+
+[core]
+   editor = code --wait
