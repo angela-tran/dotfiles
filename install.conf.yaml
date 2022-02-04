@@ -4,4 +4,4 @@
     relink: true
 
 - link:
-  ~/.gitconfig: configs/gitconfig
+    ~/.gitconfig: configs/gitconfig
