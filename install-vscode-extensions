@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+pkglist=(
+    # Git
+    eamodio.gitlens
+    mhutchie.git-graph
+    
+    vscode-icons-team.vscode-icons
+)
+
+
+for i in ${pkglist[@]}; do
+  code --install-extension $i
+done
