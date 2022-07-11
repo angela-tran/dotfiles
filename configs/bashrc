@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+echo "Loaded .bashrc"
+
+# Git completion
+source ~/.shell/git-completion.sh

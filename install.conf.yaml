@@ -4,4 +4,6 @@
       relink: true
 
 - link:
+    ~/.bashrc: configs/bashrc
     ~/.gitconfig: configs/gitconfig
+    ~/.shell:
